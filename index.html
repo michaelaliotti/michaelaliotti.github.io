@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% assign post = site.posts.first %}
+
+<article>
+	<h1>{{ post.title }}</h1>
+	{{ post.content }}
+</article>
+
+{% include latest-posts.html %}

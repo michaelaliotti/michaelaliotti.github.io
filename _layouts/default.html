@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	{% feed_meta %}
+	{% seo %}
+
+	<link rel="stylesheet" href="/assets/css/styles.css">
+	<link rel="shortcut icon" href="/assets/images/favicon.ico">
+</head>
+<body>
+	<main>
+		{{ content }}
+	</main>
+	
+	<footer>
+		{% include footer.html %}
+	</footer>
+</body>
+</html>
