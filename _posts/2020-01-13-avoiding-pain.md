@@ -7,4 +7,4 @@ Our painful memories and past traumas need to be reconciled. The looming tasks a
 
 It's amazing the lengths we'll go to in order to avoid discomfort—forget the past, seek out distractions, ignore people, avoid conversations, attempt to please everyone, say what others want to hear, etc.—but a little pain now saves us from a lot of pain later.
 
-What might you be avoiding?
+What pain might you be avoiding?
