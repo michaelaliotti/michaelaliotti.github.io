@@ -3,7 +3,7 @@ layout: page
 title: Subscribe
 ---
 
-<p>Sign up to receive new posts weekly.</p>
+Sign up to receive new posts weekly.
 
 <form action="https://michaelaliotti.us17.list-manage.com/subscribe/post?u=27a2aea5ac969fd74180be4dc&amp;id=1ad217e3a8" method="post" target="_blank" novalidate>
 	<input name="EMAIL" placeholder="Email Address" type="email">
