@@ -14,7 +14,7 @@ a {
 	text-decoration: underline;
 }
 
-h1, h2, h3, p {
+h1, h2, p {
 	line-height: 1.5em;
 	margin: 1.5em 0;
 	padding: 0;
@@ -28,18 +28,8 @@ h2 {
 	font-size: 1.5em;
 }
 
-h3 {
-	font-size: 1.25em;
-}
-
 ol, ul {
 	margin: 1.5em 0 1.5em 2em;
-	padding: 0;
-}
-
-blockquote {
-	font-style: italic;
-	margin: 1.5em 2em;
 	padding: 0;
 }
 
@@ -55,19 +45,20 @@ main nav ul {
 }
 
 main nav li {
+	display: list-item;
 	margin: 1.5em 0;
 	padding: 0;
 }
 
 footer nav ul {
 	list-style-type: none;
-	font-size: 0.875em;
 	margin: 0;
 	padding: 0;
 }
 
 footer nav li {
-	margin: 0;
+	display: inline;
+	margin: 0 0.5em 0 0;
 	padding: 0;
 }
 
@@ -76,7 +67,7 @@ time {
 	font-size: 0.75em;
 }
 
-input {
+button, input {
 	border: 1px solid #000;
 	font-size: 1em;
 	margin: 0;
@@ -86,15 +77,20 @@ input {
 input[type="email"] {
 	background-color: #fff;
 	color: #000;
-	cursor: auto;
-	width: 50%;
+	margin: 0 0 1.5em 0;
+	width: 100%;
 }
 
-input[type="submit"] {
+button, input[type="submit"] {
 	background-color: #000;
 	color: #fff;
 	cursor: pointer;
 	font-weight: bold;
+}
+
+button a {
+	color: #fff;
+	text-decoration: none;
 }
 
 ::placeholder {
