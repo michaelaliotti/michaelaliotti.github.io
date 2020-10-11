@@ -83,6 +83,7 @@ input {
 	font-size: 1em;
 	margin: 0;
 	padding: 0.5em;
+	-webkit-appearance: none;
 }
 
 input[type="email"] {
@@ -98,7 +99,6 @@ input[type="submit"] {
 	color: white;
 	cursor: pointer;
 	font-weight: bold;
-	-webkit-appearance: none;
 }
 
 ::placeholder {
