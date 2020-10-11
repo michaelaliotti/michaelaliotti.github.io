@@ -78,12 +78,12 @@ time {
 }
 
 input {
-	appearance: none;
 	border: 1px solid black;
 	border-radius: 0;
 	font-size: 1em;
 	margin: 0;
 	padding: 0.5em;
+	-webkit-appearance: none;
 }
 
 input[type="email"] {
