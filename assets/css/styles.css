@@ -81,6 +81,7 @@ input {
 	border: 1px solid black;
 	border-radius: 0;
 	font-size: 1em;
+	line-height: 1.5em;
 	margin: 0;
 	padding: 0.5em;
 	-webkit-appearance: none;
@@ -96,6 +97,7 @@ input[type="email"] {
 
 input[type="submit"] {
 	background-color: black;
+	border: none;
 	color: white;
 	cursor: pointer;
 	font-weight: bold;
