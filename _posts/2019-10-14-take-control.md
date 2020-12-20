@@ -7,4 +7,4 @@ What others do is outside our control, but what we do isn't. What others focus o
 
 The more time we spend trying to take control of the things that are outside our control, the less time we have to take ownership of the things we actually do have control over.
 
-We must take control of what we can control---namely, ourselves.
+We must take control of what we can control --- namely, ourselves.

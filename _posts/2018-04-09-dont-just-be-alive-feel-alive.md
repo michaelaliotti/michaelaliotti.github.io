@@ -9,4 +9,4 @@ I believe it's important for us to feel alive, not just be alive. Don't get me w
 
 So how do we capture that feeling? How do we integrate it into our lives? I invite you to read the questions below. Take them seriously, and answer them as truthfully and as honestly as you can. Feel free to share what comes up for you.
 
-When was the last time you felt truly alive---like your hair was on fire (in a good way)? Where were you? What were you doing? How were you able to do it? What does feeling alive give you that's so important? Who are you when you're feeling alive? Who benefits?
+When was the last time you felt truly alive --- like your hair was on fire (in a good way)? Where were you? What were you doing? How were you able to do it? What does feeling alive give you that's so important? Who are you when you're feeling alive? Who benefits?
