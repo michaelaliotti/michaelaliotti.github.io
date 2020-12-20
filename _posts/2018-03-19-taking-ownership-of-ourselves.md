@@ -5,7 +5,7 @@ title: Taking Ownership of Ourselves
 
 Ever listen to someone make an excuse? Or worse, listen to someone complain? Yes, of course. We've all experienced this before. But despite the unpleasantness of being on the receiving end of an excuse or complaint, it doesn't seem to prevent us from having our own. Why is that?
 
-Well, I was doing a lot of thinking about this while I was celebrating my 36th birthday cutting the grass and pulling weeds---a task I actually really enjoy because it gives me time to think. When I think, I tend to focus on ways we can improve as humans. So, naturally I started thinking about what it might be like if we never made excuses or complained about things ever again.
+Well, I was doing a lot of thinking about this while I was celebrating my 36th birthday cutting the grass and pulling weeds --- a task I actually really enjoy because it gives me time to think. When I think, I tend to focus on ways we can improve as humans. So, naturally I started thinking about what it might be like if we never made excuses or complained about things ever again.
 
 I'd never really considered myself to be someone that made a lot of excuses or complained regularly, but I knew I'd done both many more times than I could count. So, as I was pulling what must've been the 100th weed, I decided that I would do my very best to refrain from excuses and complaints moving forward.
 

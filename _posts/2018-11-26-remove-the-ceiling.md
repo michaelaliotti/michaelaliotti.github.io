@@ -3,7 +3,7 @@ layout: post
 title: Remove the Ceiling
 ---
 
-It's easy to be motivated to climb to the top---the top of the industry, the top of the competition, the top of the class, etc. But what do we do if we actually get there? Now there's no more climbing. Now we're trying to stay at the top. And now everyone is trying to top us.
+It's easy to be motivated to climb to the top --- the top of the industry, the top of the competition, the top of the class, etc. But what do we do if we actually get there? Now there's no more climbing. Now we're trying to stay at the top. And now everyone is trying to top us.
 
 It all depends on who our competition is. When we compete against others, we have a fixed ceiling. Even if we become the best, it will be difficult to become much better than that. And that's because our focus is on being better than others rather than being better than ourselves.
 
