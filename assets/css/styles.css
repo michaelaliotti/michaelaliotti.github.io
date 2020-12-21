@@ -25,6 +25,7 @@ a.button {
 
 h1, h2 {
 	font-family: Arial, sans-serif;
+	line-height: 1.5em;
 	margin: 1.5em 0;
 	padding: 0;
 }
@@ -63,11 +64,8 @@ main nav li {
 	padding: 0;
 }
 
-footer {
-	font-size: 0.875em;
-}
-
 footer nav ul {
+	font-size: 0.875em;
 	margin: 0;
 	padding: 0;
 }
