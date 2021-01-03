@@ -10,10 +10,12 @@
 	{% feed_meta %}
 </head>
 <body>
-	<main>
-		{{ content }}
-	</main>
-	
+	<header>
+		{% include header.html %}
+	</header>
+
+	{{ content }}
+
 	<footer>
 		{% include footer.html %}
 	</footer>

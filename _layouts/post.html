@@ -2,9 +2,20 @@
 layout: default
 ---
 
-<article>
+<main>
 	<h1>{{ page.title | smartify }}</h1>
 	{{ content }}
-</article>
+</main>
 
-{% include recent-posts.html %}
+<aside>
+	<h2 hidden>Post navigation</h2>
+	<ul>
+		{% if page.previous.url %}
+			<li>Previous post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>
+		{% endif %}
+
+		{% if page.next.url %}
+			<li>Next post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></li>
+		{% endif %}
+	</ul>
+</aside>
