@@ -7,8 +7,7 @@ layout: default
 	{{ content }}
 </main>
 
-<aside>
-	<h2 hidden>Post navigation</h2>
+<div id="aside" role="complementary">
 	<ul>
 		{% if page.previous.url %}
 			<li>Previous post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>
@@ -18,4 +17,4 @@ layout: default
 			<li>Next post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></li>
 		{% endif %}
 	</ul>
-</aside>
+</div>

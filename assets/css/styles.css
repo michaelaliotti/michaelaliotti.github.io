@@ -52,19 +52,17 @@ blockquote {
 	margin: 0 2.5em;
 }
 
-/* New styles here */
-
 main {
 	margin: 6em 0;
 	padding: 0;
 }
 
-aside {
+#aside {
 	margin: 6em 0;
 	padding: 0;
 }
 
-aside ul {
+#aside ul {
 	font-style: italic;
 	list-style-type: none;
 	margin: 0;
@@ -82,15 +80,6 @@ aside ul {
 #nav li {
 	margin: 0 1em 0 0;
 	padding: 0;
-}
-
-a.button {
-	background-color: black;
-	color: white;
-	display: inline-block;
-	margin: 0;
-	padding: .5em;
-	text-decoration: none;
 }
 
 main nav ul {
