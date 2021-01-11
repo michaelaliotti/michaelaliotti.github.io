@@ -69,6 +69,11 @@ aside ul {
 	padding: 0;
 }
 
+aside li {
+	margin: .75em 0;
+	padding: 0;
+}
+
 nav ul {
 	display: flex;
 	flex-wrap: wrap;
