@@ -10,6 +10,4 @@ Sign up to receive new posts weekly.
 	<input name="subscribe" type="submit" value="Subscribe">
 </form>
 
-## RSS
-
-Here is a link to my RSS feed.
+There is also an [RSS feed](/feed.xml).

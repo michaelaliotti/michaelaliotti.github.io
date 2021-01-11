@@ -52,6 +52,11 @@ blockquote {
 	margin: 0 2.5em;
 }
 
+time {
+	display: block;
+	font-size: .875em;
+}
+
 main, aside {
 	margin: 6em 0;
 	padding: 0;
@@ -88,9 +93,8 @@ nav li {
 	padding: 0;
 }
 
-time {
-	display: block;
-	font-size: .875em;
+form {
+	display: flex;
 }
 
 input {
@@ -108,8 +112,7 @@ input[type="email"] {
 	background-color: white;
 	box-sizing: border-box;
 	color: black;
-	margin: 0 0 .25em 0;
-	width: 75%;
+	width: 100%;
 }
 
 input[type="submit"] {
