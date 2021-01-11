@@ -7,14 +7,14 @@ layout: default
 	{{ content }}
 </main>
 
-<div id="aside" role="complementary">
+<aside>
 	<ul>
 		{% if page.previous.url %}
-			<li>Previous post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>
+			<li>Previous post: <a href="{{ page.previous.url }}">{{ page.previous.title | smartify }}</a></li>
 		{% endif %}
 
 		{% if page.next.url %}
-			<li>Next post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></li>
+			<li>Next post: <a href="{{ page.next.url }}">{{ page.next.title | smartify }}</a></li>
 		{% endif %}
 	</ul>
-</div>
+</aside>

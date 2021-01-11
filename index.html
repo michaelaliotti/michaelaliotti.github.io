@@ -9,10 +9,10 @@ layout: default
 	{{ post.content }}
 </main>
 
-<div id="aside" role="complementary">
+<aside>
 	<ul>
 		{% if post.previous.url %}
 			<li>Previous post: <a href="{{ post.previous.url }}">{{ post.previous.title }}</a></li>
 		{% endif %}
 	</ul>
-</div>
+</aside>
