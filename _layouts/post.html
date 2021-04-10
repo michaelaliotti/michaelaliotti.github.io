@@ -5,6 +5,7 @@ layout: default
 <main>
 	<h1>{{ page.title | smartify }}</h1>
 	{{ content }}
+	<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
 </main>
 
 <aside>
