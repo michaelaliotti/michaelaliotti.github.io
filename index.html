@@ -4,15 +4,16 @@ layout: default
 
 {% assign post = site.posts.first %}
 
-<main>
-	<h1>{{ post.title | smartify }}</h1>
-	{{ post.content }}
-</main>
+<h1>{{ post.title | smartify }}</h1>
+{{ post.content }}
 
 <aside>
-	<ul>
-		{% if post.previous.url %}
-			<li>Previous post: <a href="{{ post.previous.url }}">{{ post.previous.title }}</a></li>
-		{% endif %}
-	</ul>
+  <ul>
+    {% if post.previous.url %}
+    <li>
+      Previous post:
+      <a href="{{ post.previous.url }}">{{ post.previous.title }}</a>
+    </li>
+    {% endif %}
+  </ul>
 </aside>

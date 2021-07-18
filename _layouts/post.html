@@ -2,19 +2,38 @@
 layout: default
 ---
 
-<main>
-	<h1>{{ page.title | smartify }}</h1>
-	{{ content }}
-</main>
+<h1>{{ page.title | smartify }}</h1>
+{{ content }}
 
-<aside>
-	<ul>
-		{% if page.previous.url %}
-			<li>Previous post: <a href="{{ page.previous.url }}">{{ page.previous.title | smartify }}</a></li>
-		{% endif %}
+<section>
+  {% if page.previous.url %}
+  <div>
+    <span aria-label="Previous">&gt;</span>
+    <a href="{{ page.previous.url }}">{{ page.previous.title | smartify }}</a>
+  </div>
+  {% endif %} {% if page.next.url %}
+  <div>
+    <span aria-label="Next">&lt;</span>
+    <a href="{{ page.next.url }}">{{ page.next.title | smartify }}</a>
+  </div>
+  {% endif %}
+</section>
 
-		{% if page.next.url %}
-			<li>Next post: <a href="{{ page.next.url }}">{{ page.next.title | smartify }}</a></li>
-		{% endif %}
-	</ul>
-</aside>
+<section id="posts">
+  <h2>Recent posts</h2>
+  <ul>
+    {% for post in site.posts limit: 5 %}
+    <li>
+      <div>
+        <time class="caps" datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: '%b %-d' }}
+        </time>
+      </div>
+      <div>
+        <a href="{{ post.url }}">{{ post.title | smartify }}</a>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  <a class="button caps" href="/archive/">View all posts</a>
+</section>
