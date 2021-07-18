@@ -1,0 +1,18 @@
+<section id="posts">
+  <h2>Recent posts</h2>
+  <ul>
+    {% for post in site.posts limit: 5 %}
+    <li>
+      <div>
+        <time class="caps" datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: '%b %-d' }}
+        </time>
+      </div>
+      <div>
+        <a href="{{ post.url }}">{{ post.title | smartify }}</a>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  <a class="button caps" href="/archive/">View all posts</a>
+</section>

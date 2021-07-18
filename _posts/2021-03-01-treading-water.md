@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Treading Water
+title: Treading water
 ---
 
 We work so hard to keep things the same; often harder than if we were to simply embrace change. People say, "We're in unprecedented times." And they're right: we're always in unprecedented times.

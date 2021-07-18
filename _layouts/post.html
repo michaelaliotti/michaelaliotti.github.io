@@ -2,19 +2,21 @@
 layout: default
 ---
 
-<main>
-	<h1>{{ page.title | smartify }}</h1>
-	{{ content }}
-</main>
+<h1>{{ page.title | smartify }}</h1>
+{{ content }}
 
-<aside>
-	<ul>
-		{% if page.previous.url %}
-			<li>Previous post: <a href="{{ page.previous.url }}">{{ page.previous.title | smartify }}</a></li>
-		{% endif %}
+<section>
+  {% if page.previous.url %}
+  <div>
+    <span aria-label="Previous post">&gt;</span>
+    <a href="{{ page.previous.url }}">{{ page.previous.title | smartify }}</a>
+  </div>
+  {% endif %} {% if page.next.url %}
+  <div>
+    <span aria-label="Next post">&lt;</span>
+    <a href="{{ page.next.url }}">{{ page.next.title | smartify }}</a>
+  </div>
+  {% endif %}
+</section>
 
-		{% if page.next.url %}
-			<li>Next post: <a href="{{ page.next.url }}">{{ page.next.title | smartify }}</a></li>
-		{% endif %}
-	</ul>
-</aside>
+{% include recent-posts.html %}
