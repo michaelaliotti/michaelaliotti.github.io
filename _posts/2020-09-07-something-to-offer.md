@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Something to Offer
+title: Something to offer
 ---
 
 A smile, a shoulder to cry on, a helping hand. A sounding board, a listening ear, a genuine interest to understand.

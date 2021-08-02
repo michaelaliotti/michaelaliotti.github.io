@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What It Means to Lead
+title: What it means to lead
 ---
 
 It means you are a servant.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Best?
+title: What's best?
 ---
 
 Don't strive to be the best. Strive to do your best.
