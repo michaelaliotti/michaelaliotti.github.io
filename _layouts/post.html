@@ -8,12 +8,12 @@ layout: default
 <section>
   {% if page.previous.url %}
   <div>
-    <span aria-label="Previous post">&gt;</span>
+    <span aria-label="Previous post"><b>&gt;</b></span>
     <a href="{{ page.previous.url }}">{{ page.previous.title | smartify }}</a>
   </div>
   {% endif %} {% if page.next.url %}
   <div>
-    <span aria-label="Next post">&lt;</span>
+    <span aria-label="Next post"><b>&lt;</b></span>
     <a href="{{ page.next.url }}">{{ page.next.title | smartify }}</a>
   </div>
   {% endif %}
