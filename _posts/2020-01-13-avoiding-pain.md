@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avoiding Pain
+title: Avoiding pain
 ---
 
 Our painful memories and past traumas need to be reconciled. The looming tasks and difficult people in our lives need to be faced. The uncomfortable conversations and unpopular decisions need to be made. The truth needs to be told (and it needs to be heard).

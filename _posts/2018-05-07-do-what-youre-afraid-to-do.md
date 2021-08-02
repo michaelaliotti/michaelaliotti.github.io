@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do What You're Afraid to Do
+title: Do what you're afraid to do
 ---
 
 There should be at least one thing we do each day that makes us feel a little nervous or uneasy.

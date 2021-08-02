@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Face Your Fear
+title: Face your fear
 ---
 
 We all have fear. That's normal. That's how we're wired. It's a protection mechanism. There's nothing inherently wrong with having fear, but how we handle it plays a big role in our life experience.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's the Positive Intention?
+title: What's the positive intention?
 ---
 
 We all have emotions, and we all handle them differently, but it's how we choose to act on them that ultimately makes the difference.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Worst Enemy
+title: Your worst enemy
 ---
 
 Love them.

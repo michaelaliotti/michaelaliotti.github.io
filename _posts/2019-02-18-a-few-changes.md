@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Few Changes
+title: A few changes
 ---
 
 Stop complaining and start doing. Others will decide for us if we don't decide for ourselves. We must find a solution, create change, and adapt.

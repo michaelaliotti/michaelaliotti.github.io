@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Out of Control
+title: Out of control
 ---
 
 The weather. The news. The outcome of a sporting event. What other people say. How other people behave. What other people think. What we say and do in regards to these things makes no difference on the outcome. None. And yet we tend to concern ourselves with them way more than the aspects of our lives that we actually control.

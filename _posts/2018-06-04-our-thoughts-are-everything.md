@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Thoughts Are Everything
+title: Our thoughts are everything
 ---
 
 Thoughts are important. They are what drive our every move. They affect our outlook on life, what we think we can and cannot do, as well as the choices we make. They affect our mood, our job, and our relationships. They color the way we experience life. They affect everything!

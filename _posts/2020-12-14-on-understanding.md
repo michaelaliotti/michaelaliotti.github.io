@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Understanding
+title: On understanding
 ---
 
 The less we understand what a person thinks, or how a person acts, or what a person says, the more intense and relentless our pursuit of understanding their thoughts, ways, and words should be.

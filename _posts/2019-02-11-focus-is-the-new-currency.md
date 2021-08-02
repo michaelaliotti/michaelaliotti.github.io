@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Focus Is the New Currency
+title: Focus is the new currency
 ---
 
 We're a distracted society. We don't really notice it, though, because we're too distracted to notice. We're used to being busy. We're used to moving from one thing to the next at lightning speed. We're used to our attention being hijacked. We're used to checking our phones constantly throughout the day.

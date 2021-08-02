@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Give It All Away
+title: Give it all away
 ---
 
 Dear Leaders,

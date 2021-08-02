@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Matters?
+title: What matters?
 ---
 
 If we need to know that our work matters to others, we might want to consider asking ourselves how much it matters to us? And if our work really does matter to us, then it shouldn't matter if anyone else cares.

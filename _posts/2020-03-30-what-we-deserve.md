@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What We Deserve
+title: What we deserve
 ---
 
 Nothing. (Everything we have is a gift.)

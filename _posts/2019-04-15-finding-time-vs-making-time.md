@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding Time vs. Making Time
+title: Finding time vs. making time
 ---
 
 There's a difference between finding time and making time.

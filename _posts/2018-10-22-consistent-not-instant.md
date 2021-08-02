@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consistent Not Instant
+title: Consistent, not instant
 ---
 
 We live in a "now" society. We want change to happen quickly, and we expect results almost immediately. It's easy to see where these expectations come from: Want to lose weight? Do this exercise program for one week. Want to be entertained? Pull out a phone and fire up an app. Want to buy something? Go online and pay more money for faster delivery.

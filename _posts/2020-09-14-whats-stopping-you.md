@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Stopping You?
+title: What's stopping you?
 ---
 
 You.

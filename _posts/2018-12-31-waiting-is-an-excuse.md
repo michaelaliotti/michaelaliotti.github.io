@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Waiting Is an Excuse
+title: Waiting is an excuse
 ---
 
 Tomorrow is the beginning of a new year; a time when many of us plan to embark on making positive changes in our lives. But why wait? Why not just start now?

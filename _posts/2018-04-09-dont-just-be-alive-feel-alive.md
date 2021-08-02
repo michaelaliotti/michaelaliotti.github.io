@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Just Be Alive, Feel Alive
+title: Don't just be alive, feel alive
 ---
 
 What makes you feel alive? For me, it's a lot of things. It's the sound of my kids' laughter. It's the way my wife smiles at me. It's listening to loud music, and playing it, too. It's competing with myself to be the best I can be each day. Of course there's more, but you get the idea.

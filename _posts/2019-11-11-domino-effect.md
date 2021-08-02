@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Domino Effect
+title: Domino effect
 ---
 
 "I hurt my hand, so I can't workout." "I didn't eat healthy this morning, so I'm going to ditch my diet today." "I didn't pass my test, so I'm going to skip studying."

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have a Greater Threshold for Struggle
+title: Have a greater threshold for struggle
 ---
 
 How easy or how hard we perceive something to be is just that --- a perception. When something is easy, we perceive it that way because it falls below our threshold for struggle. When something is hard, we perceive it that way because it lies beyond that threshold. But here's the amazing thing about our threshold for struggle: we can change it, which means our perception of what's easy and what's hard can change as well.

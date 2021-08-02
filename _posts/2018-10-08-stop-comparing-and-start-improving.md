@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop Comparing and Start Improving
+title: Stop comparing and start improving
 ---
 
 Don't focus on what someone else can do. Focus on what you can do. Don't focus on being the best. Focus on doing your best. Don't focus on being better than everyone else. Focus on being better than yourself.

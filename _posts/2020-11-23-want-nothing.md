@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Want Nothing
+title: Want nothing
 ---
 
 We already have everything we need.
