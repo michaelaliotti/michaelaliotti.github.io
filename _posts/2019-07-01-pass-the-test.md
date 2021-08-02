@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pass the Test
+title: Pass the test
 ---
 
 Some of us just want to ignore the test. We think if we don't acknowledge it, that maybe it will just go away. (This is unlikely, and actually creates a more difficult test in the future.)

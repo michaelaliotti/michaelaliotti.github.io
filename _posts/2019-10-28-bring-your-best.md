@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bring Your Best
+title: Bring your best
 ---
 
 Is there ever a reason not to?

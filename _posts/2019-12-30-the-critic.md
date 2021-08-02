@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Critic
+title: The critic
 ---
 
 You're not good enough; not smart enough; not tough enough. You've never done it before. You don't know what you're doing. You don't have the experience. You don't have what it takes. You don't belong. It's not possible. It can't be done. No one has done it before. Your idea is crazy; stupid; worthless. Nobody cares. And besides, you've failed before. What makes you think you'll succeed?

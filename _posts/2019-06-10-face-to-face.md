@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Face to Face
+title: Face to face
 ---
 
 More and more our preferred method of communication is anything but face to face.

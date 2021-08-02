@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Same Person
+title: The same person
 ---
 
 Be it.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Comes First?
+title: What comes first?
 ---
 
 Is it your family? Your friends? Your faith? Is it your job? Getting a promotion? Attaining financial freedom? Is it having connections? The affection and attention of others? The appearance of success?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Help Others
+title: Help others
 ---
 
 We don't raise our children to be almost as capable as we are. We raise them to be better than we are. To enter the world more equipped. Prepared to go further. Self-sufficient. Confident. Kind.

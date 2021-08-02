@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All Systems Go
+title: All systems go
 ---
 
 We are all part of various systems. Families, friends, companies, teams, etc. are all systems. In order for these systems to function properly, each component that makes up the system must function together. Think of the human body. If a part is sick or injured, the entire system suffers, preventing it from operating at full capacity.

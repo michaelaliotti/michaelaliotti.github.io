@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Greatness
+title: On greatness
 ---
 
 Why do we tend to play small in life? Why do we choose to play it safe? Why, when we have the opportunity to take a chance, do we go with what we already know? Why, when the possibility of success involves taking a risk, do we shy away? Is it that we are afraid of just how great we can be?

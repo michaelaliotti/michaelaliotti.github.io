@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Is Success?
+title: What is success?
 ---
 
 It seems we have the wrong idea about what success is.

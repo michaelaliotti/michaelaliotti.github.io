@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Thing We Should Do First
+title: The thing we should do first
 ---
 
 Nothing.
