@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Your Excuse?
+title: What's your excuse?
 ---
 
 We've all got them.

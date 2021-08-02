@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Get What We Want
+title: How to get what we want
 ---
 
 How do we get what we want in our lives? It's really quite simple: we use our brain. Our brain is incredibly powerful --- especially the part called the neocortex, which gives us the ability to imagine, dream, and visualize events in the future.

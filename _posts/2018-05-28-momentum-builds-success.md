@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Momentum Builds Success
+title: Momentum builds success
 ---
 
 Many of us have big goals we want to achieve in our lifetime, but we end up making little to no progress on them. Why is that? It's because we don't effectively break our big goals down into small goals. Instead, we look at where we want to be three months from now, six months from now, or a year from now. And while there's nothing wrong with that, the tendency can be to focus on just our long-term goals alone without any real plan for the daily goals we need to hit in order to get there.

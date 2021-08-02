@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything Doesn't Have to Be Easy
+title: Everything doesn't have to be easy
 ---
 
 We are taking more shortcuts in our lives than ever before. Most of us seek comfort and avoid anything difficult or painful. We look for ways to achieve more while doing less, and we mistake it for efficiency and productivity. We look for the path of least resistance because it's known, it works, and it's easy.

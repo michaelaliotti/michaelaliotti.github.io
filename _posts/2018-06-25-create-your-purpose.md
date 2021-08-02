@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create Your Purpose
+title: Create your purpose
 ---
 
 Purpose is not something we find, it's something we create. It's not something we're born with, it's something we define and redefine over the course of our lives. And we aren't limited to having just one purpose, it's possible to have many.

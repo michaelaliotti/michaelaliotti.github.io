@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Be a Red Shirt Warrior
+title: Be a red shirt warrior
 ---
 
 I went on a walk with my dad earlier this week, and we were discussing the importance of finishing strong. During our walk, he shared a story about the Red Shirt Warriors of the Lakota Indian tribe that really resonated with me.

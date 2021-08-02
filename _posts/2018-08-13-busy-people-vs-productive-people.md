@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Busy People vs. Productive People
+title: Busy people vs. productive people
 ---
 
 There's a difference between busy people and productive people.

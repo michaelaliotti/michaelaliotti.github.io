@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Little Things Add up to Big Things
+title: Little things add up to big things
 ---
 
 Too many of us focus our attention on the big things --- the big obstacle, the big achievement, the big pay raise --- moments by which we tend to define our lives. And too many of us overlook the little things, which we tend to regard as trivial, boring, or unimportant. We might even classify them as a waste of time.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Leaders Do
+title: What leaders do
 ---
 
 Leaders listen. Leaders learn. Leaders adapt. Leaders think ahead. Leaders are consistent. Leaders lead by example. Leaders focus on people over process. Leaders want the success of others over their own. Leaders do not need (or want) recognition. Leaders are not worried about being right. Leaders are both the student and the teacher. Leaders lead so that they will no longer be needed.

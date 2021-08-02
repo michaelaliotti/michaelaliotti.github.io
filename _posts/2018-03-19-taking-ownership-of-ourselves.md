@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking Ownership of Ourselves
+title: Taking ownership of ourselves
 ---
 
 Ever listen to someone make an excuse? Or worse, listen to someone complain? Yes, of course. We've all experienced this before. But despite the unpleasantness of being on the receiving end of an excuse or complaint, it doesn't seem to prevent us from having our own. Why is that?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Are Capable of More
+title: We are capable of more
 ---
 
 I believe we have a purpose. And it's one that carries a great deal of meaning. It's our responsibility to be more. To be the best version of ourselves. And not just for ourselves, but for our families, our friends, others we don't even know, and for the world.

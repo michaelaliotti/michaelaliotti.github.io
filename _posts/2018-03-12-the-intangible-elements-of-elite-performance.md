@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Intangible Elements of Elite Performance
+title: The intangible elements of elite performance
 ---
 
 It's easy to watch someone who is highly skilled at what they do and be amazed at how well they do it. We use words like "talented," "gifted," or "elite" to describe them, and we typically think of their ability as something that comes naturally because they make it look easy.

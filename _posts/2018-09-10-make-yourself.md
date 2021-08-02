@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make Yourself
+title: Make yourself
 ---
 
 We are who we decide to be. We are who we make ourselves into. We are not born destined to be something. We are born to determine our own destiny. The legacy we leave is the result.
