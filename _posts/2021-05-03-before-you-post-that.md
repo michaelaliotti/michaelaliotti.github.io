@@ -3,7 +3,7 @@ layout: post
 title: Before you post that
 ---
 
-This is something my wife wrote, and I thought it was worth sharing:
+The following was written by my wife, Tracee Aliotti:
 
 > I have something that's been tugging at my heart. It's about a behavior I frequently see on Facebook, but it can be found on most any social platform. No one reading this asked for my opinion, and no particular post or person provoked my writing this. It's just something I wanted to get out of my head and share.
 >
@@ -19,6 +19,9 @@ This is something my wife wrote, and I thought it was worth sharing:
 >
 > Here is a challenge for us all --- before you post or share something, ask yourself, "Why am I doing this?" "How do I want others to feel upon seeing it, and is this what I want?" What if we stopped using our social feeds as weapons for mass division and instead as powerful tools for unity?
 >
-> Doing this doesn't mean we don't post the difficult things --- it just changes how and why we do it. Education over offend. Teach over taunt. Questions over criticism.
+> Doing this doesn't mean we don't post the difficult things --- it just changes how and why we do it. Educate over offend. Teach over taunt. Question over criticize.
 >
 > It's easy to retreat to our corners and push others into theirs --- it takes courage and creativity to step toward the center and invite others to stand there with you.
+
+{: style="text-align: right;" }
+--- Tracee Aliotti
