@@ -138,6 +138,11 @@ input[type='submit'] {
   min-width: 4em;
 }
 
+#previous span,
+#next span {
+  font-weight: bold;
+}
+
 .button {
   background-color: #333;
   border-bottom: none;
