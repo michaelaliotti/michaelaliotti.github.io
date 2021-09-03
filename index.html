@@ -7,10 +7,11 @@ layout: default
 <h1>{{ post.title | smartify }}</h1>
 {{ post.content }}
 
-<section id="previous-next">
+<section>
   {% if post.previous.url %}
-  <div>
-    <span aria-label="Previous post"><b>&gt;</b></span>
+  <div id="previous">
+    <h2 hidden id="previous-post">Previous post</h2>
+    <span aria-labelledby="previous-post">&gt;</span>
     <a href="{{ post.previous.url }}">{{ post.previous.title | smartify }}</a>
   </div>
   {% endif %}
