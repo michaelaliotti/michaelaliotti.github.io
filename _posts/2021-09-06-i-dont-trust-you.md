@@ -3,7 +3,7 @@ layout: post
 title: I don't trust you
 ---
 
-_By [Tracee Aliotti](https://www.linkedin.com/pulse/i-dont-trust-you-tracee-aliotti/)_
+_By Tracee Aliotti_
 
 I don't trust you.
 
