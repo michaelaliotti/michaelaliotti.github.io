@@ -3,10 +3,10 @@ layout: page
 title: Now
 ---
 
-This is what I'm up to now:
+This is what I'm up to:
 
-- Trying to be a better listener
-- Trying to be more patient
-- Thinking about how we can be more united and less divided
+- Renewing my [ICF PCC Certification](https://www.youracclaim.com/badges/75c0bff9-5860-4633-8061-96431a0e44e6/public_url)
+- Coaching my son's basketball team
+- Developing and growing leaders
 
-_Last updated on July 18th, 2021_
+_Updated on January 7, 2023_
