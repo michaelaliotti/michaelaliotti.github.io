@@ -72,16 +72,19 @@ section {
   padding: 0;
 }
 
-nav ul {
+footer {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
+}
+
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
 nav li {
+  display: inline;
   margin: 0 0.5em;
   padding: 0;
 }
