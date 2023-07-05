@@ -57,10 +57,6 @@ header {
   justify-content: space-between;
 }
 
-header a {
-  border: none;
-}
-
 main {
   margin: 6em auto;
   max-width: 40em;
@@ -87,49 +83,6 @@ nav li {
   display: inline;
   margin: 0 0.5em;
   padding: 0;
-}
-
-form {
-  display: flex;
-}
-
-input {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1em;
-  line-height: 1.5em;
-  margin: 0;
-  outline: none;
-  padding: 0.5em;
-  -webkit-appearance: none;
-}
-
-input[type='email'] {
-  background-color: #fff;
-  border: 2px solid #333;
-  border-bottom-left-radius: 2px;
-  border-top-left-radius: 2px;
-  box-sizing: border-box;
-  color: #333;
-  width: 100%;
-}
-
-input[type='submit'] {
-  background-color: #333;
-  border: none;
-  border-bottom-right-radius: 2px;
-  border-top-right-radius: 2px;
-  color: #fff;
-  cursor: pointer;
-  font-size: 0.75em;
-  font-weight: bold;
-  letter-spacing: 0.05em;
-  margin: 0;
-  padding: 1em;
-  text-transform: uppercase;
-}
-
-::placeholder {
-  color: gray;
 }
 
 #posts ul {
@@ -169,4 +122,9 @@ input[type='submit'] {
   font-weight: bold;
   letter-spacing: 0.05em;
   text-transform: uppercase;
+}
+
+.title {
+  border: none;
+  font-size: 0.875em;
 }
