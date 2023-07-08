@@ -5,16 +5,4 @@ layout: default
 {% assign post = site.posts.first %}
 
 <h1>{{ post.title | smartify }}</h1>
-{{ post.content }}
-
-<section>
-  {% if post.previous.url %}
-  <div id="previous">
-    <h2 hidden id="previous-post">Previous post</h2>
-    <span aria-labelledby="previous-post">&gt;</span>
-    <a href="{{ post.previous.url }}">{{ post.previous.title | smartify }}</a>
-  </div>
-  {% endif %}
-</section>
-
-{% include recent-posts.html %}
+{{ post.content }} {% include recent-posts.html %}
