@@ -1,6 +1,6 @@
 body {
-  background-color: #fff;
-  color: #333;
+  background-color: white;
+  color: black;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 100%;
   line-height: 2em;
@@ -42,7 +42,7 @@ ol, ul {
 }
 
 a {
-  color: #333;
+  color: black;
   text-decoration: underline;
 }
 
@@ -56,15 +56,15 @@ header {
   justify-content: space-between;
 }
 
+footer {
+  font-size: 0.875em;
+  text-align: center;
+}
+
 main {
   margin: 6em auto;
   max-width: 40em;
   padding: 0;
-}
-
-footer {
-  font-size: 0.75em;
-  text-align: center;
 }
 
 section {
@@ -84,13 +84,13 @@ nav li {
   padding: 0;
 }
 
-#posts ul {
+#thoughts ul {
   list-style-type: none;
   margin: 2em 0;
   padding: 0;
 }
 
-#posts li {
+#thoughts li {
   display: block;
   margin: 0;
   overflow: hidden;
