@@ -3,22 +3,4 @@ layout: default
 ---
 
 <h1>{{ page.title | smartify }}</h1>
-{{ content }}
-
-<section>
-  {% if page.previous.url %}
-  <div id="previous">
-    <h2 hidden id="previous-post">Previous post</h2>
-    <span aria-labelledby="previous-post">&gt;</span>
-    <a href="{{ page.previous.url }}">{{ page.previous.title | smartify }}</a>
-  </div>
-  {% endif %} {% if page.next.url %}
-  <div id="next">
-    <h2 hidden id="next-post">Next post</h2>
-    <span aria-labelledby="next-post">&lt;</span>
-    <a href="{{ page.next.url }}">{{ page.next.title | smartify }}</a>
-  </div>
-  {% endif %}
-</section>
-
-{% include recent-posts.html %}
+{{ content }} {% include recent-posts.html %}

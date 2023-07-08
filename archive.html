@@ -18,17 +18,8 @@ title: Archive
 			<ul>
 		{% endif %}
 		
-				<li>
-					<div>
-						<time class="caps" datetime="{{ post.date | date_to_xmlschema }}">
-							{{ post.date | date: '%b %-d' }}
-						</time>
-					</div>
-					<div>
-						<a href="{{ post.url }}">{{ post.title | smartify }}</a>
-					</div>
-				</li>
-
+				<li><a href="{{ post.url }}">{{ post.title | smartify }}</a></li>
+		
 		{% if forloop.last %}
 			</ul>
 		{% else %}
