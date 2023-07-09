@@ -5,8 +5,8 @@ title: Now
 
 This is what I'm up to:
 
-- Renewing my [ICF PCC Certification](https://www.youracclaim.com/badges/75c0bff9-5860-4633-8061-96431a0e44e6/public_url)
-- Coaching my son's basketball team
-- Developing and growing leaders
+- Planning a trip to Italy
+- Listening more and talking less
+- Spending time in solitude and silence
 
-_Updated on January 7, 2023_
+_Last updated on July 8, 2023_
