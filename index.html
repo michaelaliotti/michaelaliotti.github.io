@@ -7,8 +7,8 @@ layout: default
 <h1>{{ post.title | smartify }}</h1>
 {{ post.content }}
 
-<section id="thoughts">
-  <h2>Thoughts</h2>
+<section id="posts">
+  <h2>All thoughts</h2>
 	{% for post in site.posts %}
 		{% capture year_of_current_post %}
 		{{ post.date | date: '%Y' }}
@@ -26,7 +26,7 @@ layout: default
 				<li>
 					<div>
 						<time datetime="{{ post.date | date_to_xmlschema }}">
-							{{ post.date | date: "%d %b" }}
+							{{ post.date | date: "%b %-d" }}
 						</time>
 					</div>
 					<div>
