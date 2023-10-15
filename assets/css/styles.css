@@ -1,6 +1,6 @@
 body {
-  background-color: white;
-  color: black;
+  background-color: #fff;
+  color: #333;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 100%;
   line-height: 2em;
@@ -42,13 +42,18 @@ ol, ul {
 }
 
 a {
-  color: black;
+  color: #333;
   text-decoration: underline;
 }
 
 blockquote {
   font-style: italic;
   margin: 0 2em;
+}
+
+time {
+  font-size: 0.875em;
+  font-style: italic;
 }
 
 header {
@@ -91,10 +96,35 @@ nav li {
 }
 
 #thoughts li {
-  display: block;
+  display: table;
   margin: 0;
-  overflow: hidden;
   padding: 0;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+}
+
+#thoughts div {
+  display: table-cell;
+  min-width: 4em;
+}
+
+#next-prev {
+  display: flex;
+  justify-content: space-between;
+}
+
+#next {
+  flex: 1;
+  text-align: right;
+}
+
+#next::after {
+  content: ">";
+}
+
+#prev {
+  flex: 1;
+  text-align: left;
+}
+
+#prev::before {
+  content: "<";
 }
