@@ -3,4 +3,16 @@ layout: default
 ---
 
 <h1>{{ page.title | smartify }}</h1>
-{{ content }} {% include recent-thoughts.html %}
+{{ content }}
+
+<section id="next-prev">
+  {% if page.previous.url %}
+  <div id="prev">
+    <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+  </div>
+  {% endif %} {% if page.next.url %}
+  <div id="next">
+    <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+  </div>
+  {% endif %}
+</section>
