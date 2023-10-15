@@ -89,42 +89,27 @@ nav li {
   padding: 0;
 }
 
-#thoughts ul {
+#posts ul {
   list-style-type: none;
   margin: 2em 0;
   padding: 0;
 }
 
-#thoughts li {
+#posts li {
   display: table;
   margin: 0;
   padding: 0;
 }
 
-#thoughts div {
+#posts div {
   display: table-cell;
   min-width: 4em;
 }
 
-#next-prev {
-  display: flex;
-  justify-content: space-between;
-}
-
-#next {
-  flex: 1;
-  text-align: right;
-}
-
-#next::after {
-  content: ">";
-}
-
-#prev {
-  flex: 1;
-  text-align: left;
-}
-
-#prev::before {
+#previous::before {
   content: "<";
+}
+
+#next::before {
+  content: ">";
 }
