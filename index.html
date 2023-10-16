@@ -4,11 +4,13 @@ layout: default
 
 {% assign post = site.posts.first %}
 
-<h1>{{ post.title | smartify }}</h1>
-{{ post.content }}
+<article>
+	<h1>{{ post.title | smartify }}</h1>
+	{{ post.content }}
+</article>
 
-<section id="posts">
-  <h2>All thoughts</h2>
+<section id="thoughts">
+  <h2>Thoughts</h2>
 	{% for post in site.posts %}
 		{% capture year_of_current_post %}
 		{{ post.date | date: '%Y' }}
