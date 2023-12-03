@@ -4,46 +4,11 @@ layout: default
 
 {% assign post = site.posts.first %}
 
-<article>
-	<h1>{{ post.title | smartify }}</h1>
-	{{ post.content }}
-</article>
+<h1>{{ post.title | smartify }}</h1>
+{{ post.content }}
 
-<section id="thoughts">
-  <h2>Thoughts</h2>
-	{% for post in site.posts %}
-		{% capture year_of_current_post %}
-		{{ post.date | date: '%Y' }}
-		{% endcapture %}
-
-		{% capture year_of_previous_post %}
-		{{ post.previous.date | date: '%Y' }}
-		{% endcapture %}
-
-		{% if forloop.first %}
-			<h3>{{ year_of_current_post }}</h3>
-			<ul>
-		{% endif %}
-		
-				<li>
-					<div>
-						<time datetime="{{ post.date | date_to_xmlschema }}">
-							{{ post.date | date: "%b %-d" }}
-						</time>
-					</div>
-					<div>
-						<a href="{{ post.url }}">{{ post.title | smartify }}</a>
-					</div>
-				</li>
-		
-		{% if forloop.last %}
-			</ul>
-		{% else %}
-		{% if year_of_current_post != year_of_previous_post %}
-			</ul>
-			<h3>{{ year_of_previous_post }}</h3>
-			<ul>
-		{% endif %}
-		{% endif %}
-	{% endfor %}
-</section>
+<nav aria-label="Post" id="post" role="navigation">
+  <span id="previous">
+    <a href="{{ post.previous.url }}">Previous</a>
+  </span>
+</nav>

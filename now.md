@@ -10,4 +10,4 @@ This is what I'm up to:
 - Training, drumming, and working
 - Trying to listen more and talk less
 
-_Last updated on July 16, 2023_
+Last updated on July 16, 2023
