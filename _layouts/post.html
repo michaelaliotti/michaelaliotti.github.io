@@ -5,14 +5,14 @@ layout: default
 <h1>{{ page.title | smartify }}</h1>
 {{ content }}
 
-<section>
+<nav aria-label="Post" id="post">
   {% if page.previous.url %}
-  <div id="previous">
-    <a href="{{ page.previous.url }}">{{ page.previous.title | smartify }}</a>
-  </div>
+  <span id="previous">
+    <a href="{{ page.previous.url }}">Previous</a>
+  </span>
   {% endif %} {% if page.next.url %}
-  <div id="next">
-    <a href="{{ page.next.url }}">{{ page.next.title | smartify }}</a>
-  </div>
+  <span id="next">
+    <a href="{{ page.next.url }}">Next</a>
+  </span>
   {% endif %}
-</section>
+</nav>
