@@ -1,8 +1,12 @@
 body {
   background-color: #fff;
   color: #000;
-  font: normal 100% Georgia, 'Times New Roman', Times, serif;
-  margin: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 100%;
+  line-height: 2em;
+  margin: 0 auto;
+  max-width: 40em;
+  padding: 0 1.5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,43 +19,29 @@ a {
   text-decoration: underline;
 }
 
-header {
-  background-color: #f8f8f8;
-  display: flex;
-  justify-content: space-between;
-  padding: 1.5em;
-}
-
 main {
-  line-height: 2em;
-  margin: 0 auto;
-  max-width: 40em;
-  padding: 3em 1.5em;
+  margin: 9em 0 3em 0;
+  padding: 0;
 }
 
 footer {
-  margin: 0 auto;
-  max-width: 40em;
-  padding: 0 1.5em;
-}
-
-footer p {
   border-top: 2px solid #f8f8f8;
-  font-size: .875em;
-  line-height: 2em;
-  margin: 0;
-  padding: 1.5em 0;
-  text-align: center;
+  padding: 3em 0;
 }
 
-nav#main a {
-  margin: 0 0 0 .5em;
+#main-navigation {
+  display: flex;
+  justify-content: center;
 }
 
-nav#post {
+#main-navigation a {
+  margin: 0 .5em;
+}
+
+#post-navigation {
   display: flex;
   justify-content: space-between;
-  margin: 3em 0 1.25em 0;
+  margin: 3em 0;
 }
 
 #previous::before {
