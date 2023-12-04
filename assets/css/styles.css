@@ -39,9 +39,11 @@ footer {
 }
 
 #post-navigation {
+  border-top: 2px solid #f8f8f8;
   display: flex;
   justify-content: space-between;
   margin: 3em 0;
+  padding: 3em 0 0 0;
 }
 
 #previous::before {
