@@ -24,22 +24,21 @@ main {
   padding: 0;
 }
 
-footer {
-  border-top: 2px solid #f8f8f8;
-  padding: 3em 0;
+nav a {
+  margin: 0 .5em;
+  padding: 0;
 }
 
 #main-navigation {
+  border-top: 1px solid #eee;
   display: flex;
   justify-content: center;
-}
-
-#main-navigation a {
-  margin: 0 .5em;
+  margin: 0;
+  padding: 3em 0;
 }
 
 #post-navigation {
-  border-top: 2px solid #f8f8f8;
+  border-top: 1px solid #eee;
   display: flex;
   justify-content: space-between;
   margin: 3em 0;
@@ -67,4 +66,9 @@ footer {
 #thoughts time {
   font-size: .875em;
   min-width: 4.5em;
+}
+
+::selection {
+  background-color: #ff0;
+  color: #000;
 }
