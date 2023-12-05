@@ -30,7 +30,7 @@ nav a {
 }
 
 #main-navigation {
-  border-top: 1px solid #eee;
+  border-top: 2px solid #f8f8f8;
   display: flex;
   justify-content: center;
   margin: 0;
@@ -38,7 +38,7 @@ nav a {
 }
 
 #post-navigation {
-  border-top: 1px solid #eee;
+  border-top: 2px solid #f8f8f8;
   display: flex;
   justify-content: space-between;
   margin: 3em 0;
