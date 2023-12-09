@@ -41,12 +41,21 @@ nav a {
   border-top: 1px solid #eee;
   display: flex;
   justify-content: space-between;
-  margin: 3em 0;
   padding: 3em 0 0 0;
+}
+
+#previous {
+  flex: 1;
+  text-align: left;
 }
 
 #previous::before {
   content: "<";
+}
+
+#next {
+  flex: 1;
+  text-align: right;
 }
 
 #next::after {
