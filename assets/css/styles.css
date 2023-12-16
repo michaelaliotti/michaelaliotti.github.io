@@ -1,6 +1,6 @@
 body {
-  background-color: #fff;
-  color: #000;
+  background-color: #ffffff;
+  color: #000000;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 100%;
   line-height: 2em;
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #000;
+  color: #000000;
   text-decoration: underline;
 }
 
@@ -30,7 +30,7 @@ nav a {
 }
 
 #main-navigation {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #e5e5e5;
   display: flex;
   justify-content: center;
   margin: 0;
@@ -38,7 +38,7 @@ nav a {
 }
 
 #post-navigation {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #e5e5e5;
   display: flex;
   justify-content: space-between;
   margin: 3em 0;
@@ -79,6 +79,6 @@ nav a {
 }
 
 ::selection {
-  background-color: #ff0;
-  color: #000;
+  background-color: #ffff00;
+  color: #000000;
 }
