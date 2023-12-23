@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<time datetime="{{ page.date | date_to_xmlschema }}">
+  {{ page.date | date_to_string }}
+</time>
 <h1>{{ page.title | smartify }}</h1>
 {{ content }}
 

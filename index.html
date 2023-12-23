@@ -4,11 +4,8 @@ layout: default
 
 {% assign post = site.posts.first %}
 
+<time datetime="{{ post.date | date_to_xmlschema }}">
+  {{ post.date | date_to_string }}
+</time>
 <h1>{{ post.title | smartify }}</h1>
 {{ post.content }}
-
-<nav aria-label="Post" id="post-navigation">
-  <span id="previous">
-    <a href="{{ post.previous.url }}">Previous</a>
-  </span>
-</nav>
