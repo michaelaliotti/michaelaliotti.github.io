@@ -24,11 +24,6 @@ main {
   padding: 0;
 }
 
-nav a {
-  margin: 0 .5em;
-  padding: 0;
-}
-
 #main-navigation {
   border-top: 1px solid #e5e5e5;
   display: flex;
@@ -37,12 +32,22 @@ nav a {
   padding: 3em 0;
 }
 
+#main-navigation a {
+  margin: 0 .5em;
+  padding: 0;
+}
+
 #post-navigation {
   border-top: 1px solid #e5e5e5;
   display: flex;
   justify-content: space-between;
   margin: 3em 0;
   padding: 3em 0 0 0;
+}
+
+#post-navigation a {
+  margin: 0;
+  padding: 0;
 }
 
 #previous {
@@ -64,21 +69,14 @@ nav a {
 }
 
 #thoughts ul {
-  list-style-type: none;
+  margin: 0;
   padding: 0;
 }
 
 #thoughts li {
-  display: flex;
-  justify-content: flex-start;
+  list-style-type: none;
 }
 
-#thoughts time {
+time {
   font-size: .875em;
-  min-width: 4.5em;
-}
-
-::selection {
-  background-color: #ffff00;
-  color: #000000;
 }
