@@ -68,12 +68,12 @@ main {
   content: ">";
 }
 
-#thoughts ul {
+#posts ul {
   margin: 0;
   padding: 0;
 }
 
-#thoughts li {
+#posts li {
   list-style-type: none;
 }
 
