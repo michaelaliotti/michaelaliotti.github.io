@@ -20,7 +20,7 @@ a {
 }
 
 main {
-  margin: 9em 0 3em 0;
+  margin: 9em 0 0 0;
   padding: 0;
 }
 
@@ -28,7 +28,7 @@ main {
   border-top: 1px solid #e5e5e5;
   display: flex;
   justify-content: center;
-  margin: 0;
+  margin: 3em 0 0 0;
   padding: 3em 0;
 }
 
@@ -41,7 +41,7 @@ main {
   border-top: 1px solid #e5e5e5;
   display: flex;
   justify-content: space-between;
-  margin: 3em 0;
+  margin: 3em 0 0 0;
   padding: 3em 0 0 0;
 }
 
@@ -74,9 +74,11 @@ main {
 }
 
 #posts li {
+  display: flex;
   list-style-type: none;
 }
 
-time {
+#posts time {
   font-size: .875em;
+  min-width: 4.5em;
 }
