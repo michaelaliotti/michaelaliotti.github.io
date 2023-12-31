@@ -1,5 +1,4 @@
 ---
-layout: post
 title: We are all brothers and sisters
 ---
 

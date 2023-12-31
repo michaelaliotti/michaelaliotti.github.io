@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Everything doesn't have to be easy
 ---
 

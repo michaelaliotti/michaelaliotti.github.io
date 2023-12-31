@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Lead with love
 ---
 

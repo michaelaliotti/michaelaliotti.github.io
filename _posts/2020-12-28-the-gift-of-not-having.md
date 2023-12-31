@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The gift of not having
 ---
 

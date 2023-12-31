@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Who's in control?
 ---
 

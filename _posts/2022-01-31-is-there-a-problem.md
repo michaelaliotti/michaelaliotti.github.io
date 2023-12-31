@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Is there a problem?
 ---
 

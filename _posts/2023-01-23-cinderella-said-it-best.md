@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Cinderella said it best
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: In regard to the past
 ---
 

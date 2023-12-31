@@ -1,5 +1,4 @@
 ---
-layout: post
 title: If I can't win, I want you to lose
 ---
 

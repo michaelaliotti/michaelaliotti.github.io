@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Winning, losing, and learning
 ---
 

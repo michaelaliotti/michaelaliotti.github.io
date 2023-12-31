@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How we treat others
 ---
 

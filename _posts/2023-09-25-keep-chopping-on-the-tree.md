@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Keep chopping on the tree
 ---
 

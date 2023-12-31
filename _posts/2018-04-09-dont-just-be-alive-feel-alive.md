@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Don't just be alive, feel alive
 ---
 

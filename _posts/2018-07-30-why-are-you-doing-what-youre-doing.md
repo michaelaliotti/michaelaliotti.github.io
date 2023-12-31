@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Why are you doing what you're doing?
 ---
 

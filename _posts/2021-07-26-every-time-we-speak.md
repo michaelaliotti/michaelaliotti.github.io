@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Every time we speak
 ---
 

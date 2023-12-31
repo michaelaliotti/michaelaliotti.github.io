@@ -1,5 +1,4 @@
 ---
-layout: post
 title: We are what we worship
 ---
 

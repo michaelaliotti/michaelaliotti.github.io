@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Addition by subtraction
 ---
 

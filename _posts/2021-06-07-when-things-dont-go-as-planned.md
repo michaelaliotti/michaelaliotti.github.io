@@ -1,5 +1,4 @@
 ---
-layout: post
 title: When things don't go as planned
 ---
 

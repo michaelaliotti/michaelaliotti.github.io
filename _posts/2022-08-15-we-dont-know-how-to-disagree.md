@@ -1,5 +1,4 @@
 ---
-layout: post
 title: We don't know how to disagree
 ---
 

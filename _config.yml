@@ -27,6 +27,13 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://michaelaliotti.com' # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
 
+# Front matter defaults
+defaults:
+  - scope:
+      path: '' # an empty string here means all files in the project
+    values:
+      layout: 'page'
+
 # Build settings
 plugins:
   - jekyll-feed

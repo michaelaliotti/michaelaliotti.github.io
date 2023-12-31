@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Taking ownership of ourselves
 ---
 

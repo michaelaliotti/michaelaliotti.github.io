@@ -1,5 +1,4 @@
 ---
-layout: post
 title: When you don't feel like doing something
 ---
 

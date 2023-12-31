@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Appreciate the view (even if it's not your own)
 ---
 

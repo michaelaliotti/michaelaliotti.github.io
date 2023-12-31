@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Leadership is a verb
 ---
 

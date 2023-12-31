@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Little things add up to big things
 ---
 

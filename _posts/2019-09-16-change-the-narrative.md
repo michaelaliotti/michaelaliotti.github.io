@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Change the narrative
 ---
 

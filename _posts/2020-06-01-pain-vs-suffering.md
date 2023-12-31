@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pain vs. suffering
 ---
 

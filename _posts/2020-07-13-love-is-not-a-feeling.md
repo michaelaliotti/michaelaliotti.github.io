@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Love is not a feeling
 ---
 

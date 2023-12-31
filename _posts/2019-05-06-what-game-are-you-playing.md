@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What game are you playing?
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The currency of character
 ---
 

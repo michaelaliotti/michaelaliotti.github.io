@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Things need to change
 ---
 

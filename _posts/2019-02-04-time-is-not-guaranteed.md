@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Time is not guaranteed
 ---
 

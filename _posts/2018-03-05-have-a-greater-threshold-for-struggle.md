@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Have a greater threshold for struggle
 ---
 

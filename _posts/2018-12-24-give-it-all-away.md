@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Give it all away
 ---
 

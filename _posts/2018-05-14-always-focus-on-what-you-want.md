@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Always focus on what you want
 ---
 

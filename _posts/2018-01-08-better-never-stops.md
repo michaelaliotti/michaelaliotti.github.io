@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Better never stops
 ---
 
