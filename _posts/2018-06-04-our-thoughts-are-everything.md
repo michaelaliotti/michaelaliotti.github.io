@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Our thoughts are everything
 ---
 

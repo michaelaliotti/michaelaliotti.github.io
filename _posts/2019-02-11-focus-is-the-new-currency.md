@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Focus is the new currency
 ---
 

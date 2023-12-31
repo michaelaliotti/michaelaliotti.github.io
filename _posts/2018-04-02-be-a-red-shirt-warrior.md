@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Be a red shirt warrior
 ---
 

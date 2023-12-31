@@ -1,5 +1,4 @@
 ---
-layout: post
 title: When you're ready
 ---
 

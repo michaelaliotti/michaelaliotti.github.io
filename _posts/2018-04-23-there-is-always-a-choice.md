@@ -1,5 +1,4 @@
 ---
-layout: post
 title: There is always a choice
 ---
 

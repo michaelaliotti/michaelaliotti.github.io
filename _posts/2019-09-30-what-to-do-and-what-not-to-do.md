@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What to do and what not to do
 ---
 

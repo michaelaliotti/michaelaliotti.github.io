@@ -1,11 +1,10 @@
 ---
-layout: page
 title: Archive
 ---
 
 {% assign posts = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 
-<div id="posts">
+<div id="archive">
   <ul>
     {% for year in posts %}
     <li>

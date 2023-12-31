@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Change comes from within
 ---
 

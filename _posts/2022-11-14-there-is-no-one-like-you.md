@@ -1,5 +1,4 @@
 ---
-layout: post
 title: There is no one like you
 ---
 

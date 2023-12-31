@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The new up, the new first
 ---
 

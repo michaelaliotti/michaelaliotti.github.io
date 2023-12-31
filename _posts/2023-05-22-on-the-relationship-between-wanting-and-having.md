@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On the relationship between wanting and having
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Advice for a miserable life
 ---
 

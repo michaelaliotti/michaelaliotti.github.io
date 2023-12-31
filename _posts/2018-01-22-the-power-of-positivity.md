@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The power of positivity
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: It takes effort
 ---
 

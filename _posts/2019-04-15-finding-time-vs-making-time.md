@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Finding time vs. making time
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: One thing at a time
 ---
 

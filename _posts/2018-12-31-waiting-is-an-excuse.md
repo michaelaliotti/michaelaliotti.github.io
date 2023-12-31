@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Waiting is an excuse
 ---
 

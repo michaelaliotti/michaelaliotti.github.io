@@ -1,5 +1,4 @@
 ---
-layout: post
 title: We reap what we sow
 ---
 

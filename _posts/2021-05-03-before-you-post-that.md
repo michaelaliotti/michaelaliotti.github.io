@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Before you post that
 ---
 

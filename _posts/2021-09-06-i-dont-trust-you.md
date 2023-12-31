@@ -1,5 +1,4 @@
 ---
-layout: post
 title: I don't trust you
 ---
 

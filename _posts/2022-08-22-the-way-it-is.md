@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The way it is
 ---
 

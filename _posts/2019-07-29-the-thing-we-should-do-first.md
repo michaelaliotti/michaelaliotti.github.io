@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The thing we should do first
 ---
 

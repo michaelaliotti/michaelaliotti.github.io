@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On making an impact
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Triumph in defeat
 ---
 

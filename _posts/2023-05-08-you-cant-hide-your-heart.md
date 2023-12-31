@@ -1,5 +1,4 @@
 ---
-layout: post
 title: You can't hide your heart
 ---
 

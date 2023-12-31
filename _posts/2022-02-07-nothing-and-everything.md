@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Nothing and everything
 ---
 

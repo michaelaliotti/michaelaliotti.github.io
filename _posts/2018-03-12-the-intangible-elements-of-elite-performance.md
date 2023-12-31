@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The intangible elements of elite performance
 ---
 

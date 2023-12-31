@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Your least favorite person
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Think, say, do, believe
 ---
 

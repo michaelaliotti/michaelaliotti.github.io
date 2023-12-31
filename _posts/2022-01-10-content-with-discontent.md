@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Content with discontent
 ---
 

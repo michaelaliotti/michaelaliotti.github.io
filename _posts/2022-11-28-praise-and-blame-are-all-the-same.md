@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Praise and blame are all the same
 ---
 

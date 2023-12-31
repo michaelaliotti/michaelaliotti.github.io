@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Do what you're afraid to do
 ---
 

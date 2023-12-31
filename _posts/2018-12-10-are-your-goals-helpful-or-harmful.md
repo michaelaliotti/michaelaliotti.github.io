@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Are your goals helpful or harmful?
 ---
 
