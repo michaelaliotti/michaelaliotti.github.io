@@ -2,19 +2,11 @@
 title: Archive
 ---
 
-{% assign posts = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% assign posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 <div id="archive">
-  <ul>
-    {% for year in posts %}
-    <li>
-      <a href="#{{ year.name }}">{{ year.name }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-
   {% for year in posts %}
-  <h2 id="{{ year.name }}">{{ year.name }}</h2>
+  <h2>{{ year.name }}</h2>
   <ul>
     {% for post in year.items %}
     <li>
