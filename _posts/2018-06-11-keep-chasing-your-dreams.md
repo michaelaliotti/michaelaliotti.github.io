@@ -1,6 +1,4 @@
----
-title: Keep chasing your dreams
----
+# Keep chasing your dreams
 
 It's not always going to be fun. And it's not always going to be easy. In fact, most of it is going to be hard. You're not always going to be at your best. And you're not always going to be feeling 100%. At some point, you will either be sick or injured. And there will be days when you get knocked down. And days when getting back up seems impossible.
 

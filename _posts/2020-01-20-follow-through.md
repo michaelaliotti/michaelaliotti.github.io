@@ -1,6 +1,4 @@
----
-title: Follow through
----
+# Follow through
 
 Follow through builds trust. Lack of follow through erodes it. Follow through encourages honesty. Lack of follow through discourages it. Follow through honors commitment and responsibility. Lack of follow through denies it. Follow through requires discipline and sacrifice. Lack of follow through avoids it.
 

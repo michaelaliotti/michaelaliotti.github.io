@@ -1,6 +1,4 @@
----
-title: Just start
----
+# Just start
 
 That idea you have. That project you need to work on. That task you don't want to do that you know needs to be done. Just start. The sooner you do, the sooner you'll be where you want to be. The key to finishing is starting.
 

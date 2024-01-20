@@ -1,6 +1,4 @@
----
-title: The gift of not having
----
+# The gift of not having
 
 An easy way to live a resentful life is to focus on what we've lost, or what we feel we deserve, or what we don't have. But once we realize that we already have everything we need, the resentment goes away and turns into gratitude.
 

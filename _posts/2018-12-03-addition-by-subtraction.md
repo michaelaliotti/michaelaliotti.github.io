@@ -1,6 +1,4 @@
----
-title: Addition by subtraction
----
+# Addition by subtraction
 
 A common theme in life is to add more to what is already there.
 

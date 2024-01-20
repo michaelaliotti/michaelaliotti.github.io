@@ -1,6 +1,4 @@
----
-title: Do it differently
----
+# Do it differently
 
 It's in our nature to seek connection; to find a community to which we belong; to relate to others that share our thoughts, opinions, and interests, etc. It brings a sense of comfort and safety to know that we are not alone; that we have support; that we fit in.
 

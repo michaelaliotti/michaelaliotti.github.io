@@ -1,6 +1,4 @@
----
-title: The thing we should do first
----
+# The thing we should do first
 
 Nothing.
 

@@ -1,6 +1,4 @@
----
-title: The ultimate transformer
----
+# The ultimate transformer
 
 Anger wants to be met with anger. Fear with fear. Apathy with apathy. Frustration with frustration. Envy with envy. And so on.
 

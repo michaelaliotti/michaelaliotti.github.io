@@ -5,6 +5,7 @@ title: Archive
 {% assign posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 <div id="archive">
+  <h1>Archive</h1>
   {% for year in posts %}
   <h2>{{ year.name }}</h2>
   <ul>

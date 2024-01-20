@@ -1,6 +1,4 @@
----
-title: Bring your best
----
+# Bring your best
 
 Is there ever a reason not to?
 

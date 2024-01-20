@@ -1,6 +1,4 @@
----
-title: Before you post that
----
+# Before you post that
 
 _By Tracee Aliotti_
 

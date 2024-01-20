@@ -271,9 +271,11 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed
+  jekyll-optional-front-matter
   jekyll-seo-tag
   jekyll-sitemap
-  webrick (~> 1.7)
+  jekyll-titles-from-headings
+  webrick
 
 BUNDLED WITH
    2.2.31

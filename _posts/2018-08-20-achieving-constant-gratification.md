@@ -1,6 +1,4 @@
----
-title: Achieving constant gratification
----
+# Achieving constant gratification
 
 You may have heard about the benefits of delayed gratification. It's been touted as one of the key components of an enjoyable life. You've heard that it's a sign of intelligence, that it's a common trait of successful people, and that it's one of the best ways to create a better future for ourselves. But the concept of delayed gratification stands in direct contrast to our innate way of being, which is to pursue and receive instant gratification.
 

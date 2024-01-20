@@ -1,6 +1,4 @@
----
-title: I don't trust you
----
+# I don't trust you
 
 _By Tracee Aliotti_
 

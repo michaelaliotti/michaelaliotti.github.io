@@ -1,5 +1,3 @@
----
-title: Being vs. doing
----
+# Being vs. doing
 
 What we are doing is not as important as who we are being.

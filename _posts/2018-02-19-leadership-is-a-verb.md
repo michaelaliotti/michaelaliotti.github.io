@@ -1,6 +1,4 @@
----
-title: Leadership is a verb
----
+# Leadership is a verb
 
 Leadership has nothing to do with our title, position, or rank. It has nothing to do with our background, or the amount of experience we might have. It has nothing to do with our level of insight, or the ability to get others to do what we want. And it has nothing to do with being in charge of a team, an organization, or even a country.
 

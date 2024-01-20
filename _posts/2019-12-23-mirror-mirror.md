@@ -1,6 +1,4 @@
----
-title: Mirror, mirror
----
+# Mirror, mirror
 
 If you are uncomfortable around others, others will likely be uncomfortable around you. If you are untrusting of others, others will likely be untrusting of you. If you are unkind toward others, others will likely be unkind toward you.
 

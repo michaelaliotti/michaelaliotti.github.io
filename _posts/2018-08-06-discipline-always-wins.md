@@ -1,6 +1,4 @@
----
-title: Discipline always wins
----
+# Discipline always wins
 
 Motivation can be a powerful force in our lives. It can drive us to do amazing things --- things that we might not otherwise be able to do. It can keep us going when we're facing adversity. And it can reinforce our momentum when we're making progress. Motivation can light a fire inside us that feels (at least, in the moment) as if it will burn on indefinitely.
 

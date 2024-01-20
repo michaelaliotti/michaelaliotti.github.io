@@ -1,6 +1,4 @@
----
-title: Choices that matter
----
+# Choices that matter
 
 Our lives are full of choices. We make them every day. We make choices about what to eat, what to wear, what to buy, what to believe, what to say, etc. It has been estimated that we make roughly 35,000 choices in a single day!
 

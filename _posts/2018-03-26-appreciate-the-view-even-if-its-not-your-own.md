@@ -1,6 +1,4 @@
----
-title: Appreciate the view (even if it's not your own)
----
+# Appreciate the view (even if it's not your own)
 
 We all have a model of the world. It's the lens through which we perceive everything around us. It's the filter through which we communicate what we're about. It's who we are, what we do, and what we believe. It's what makes us unique.
 

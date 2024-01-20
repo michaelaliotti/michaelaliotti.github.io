@@ -1,5 +1,3 @@
----
-title: Gratitude
----
+# Gratitude
 
 In all circumstances.

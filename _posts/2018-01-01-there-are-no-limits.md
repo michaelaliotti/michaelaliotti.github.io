@@ -1,6 +1,4 @@
----
-title: There are no limits
----
+# There are no limits
 
 We are all capable of giving great effort, and we are all capable of doing incredible, even impossible, things. Yet, we tend to place limits on ourselves, or we let others decide what our limits should be.
 

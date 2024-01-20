@@ -1,6 +1,4 @@
----
-title: How much is enough?
----
+# How much is enough?
 
 We have everything we need. In fact, most of us have more than we need. (And yet, we still want more!) And it's precisely this pursuit of "more" that makes us feel like we have less --- like we can never have enough, be enough, or do enough.
 

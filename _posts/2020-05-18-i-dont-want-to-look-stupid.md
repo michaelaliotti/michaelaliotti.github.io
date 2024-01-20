@@ -1,6 +1,4 @@
----
-title: I don't want to look stupid
----
+# I don't want to look stupid
 
 Many of us act like we have it all together. But the truth is, none of us do.
 

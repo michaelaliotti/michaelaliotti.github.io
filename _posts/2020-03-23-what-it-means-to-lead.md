@@ -1,6 +1,4 @@
----
-title: What it means to lead
----
+# What it means to lead
 
 It means you are a servant.
 
