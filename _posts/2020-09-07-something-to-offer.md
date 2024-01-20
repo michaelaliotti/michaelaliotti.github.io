@@ -1,6 +1,4 @@
----
-title: Something to offer
----
+# Something to offer
 
 A smile, a shoulder to cry on, a helping hand. A sounding board, a listening ear, a genuine interest to understand.
 

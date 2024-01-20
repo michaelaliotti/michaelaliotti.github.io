@@ -1,6 +1,4 @@
----
-title: Transparent
----
+# Transparent
 
 The emotions, feelings, and thoughts we hold inside are not hidden. They usually show themselves in other, not so positive and productive ways. Tension, stress, anxiety, fear, anger, etc. --- these things are (more often than not) the result of our own inaction to communicate. We think it's safer, smarter, easier to hold it all inside. (At least it seems that way in the present moment.)
 

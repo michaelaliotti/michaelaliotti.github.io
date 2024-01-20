@@ -1,6 +1,4 @@
----
-title: Change the narrative
----
+# Change the narrative
 
 You might not be confident right now, but that doesn't mean you can't be. You might not be patient right now, but that doesn't mean you can't be. You might not be disciplined right now, but that doesn't mean you can't be.
 

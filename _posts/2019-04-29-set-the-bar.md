@@ -1,6 +1,4 @@
----
-title: Set the bar
----
+# Set the bar
 
 It's surprising how few of us have one. And if we do, it's often too low or too vague. We are too easily satisfied with doing just enough, with no real clear metrics for the standard we want to hold ourselves to.
 

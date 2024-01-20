@@ -1,6 +1,4 @@
----
-title: Give it all away
----
+# Give it all away
 
 Dear Leaders,
 

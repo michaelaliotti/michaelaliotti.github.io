@@ -1,6 +1,4 @@
----
-title: Challenge and struggle
----
+# Challenge and struggle
 
 Challenge and struggle are part of the human condition. And an attempt to eliminate it is futile. We can't buy our way out of it, or lie our way out of it, or numb and drug our way out of it. We can't ignore it, or suppress it, or run away from it. All of these attempts just make it worse.
 

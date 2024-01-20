@@ -1,6 +1,4 @@
----
-title: Achievement vs. strategy
----
+# Achievement vs. strategy
 
 Achievement gets things done. It works hard, takes action, and is constantly doing. Strategy is focused on getting the right things done. It analyzes, sets goals, and looks for areas of improvement.
 

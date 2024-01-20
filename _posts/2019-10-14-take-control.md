@@ -1,6 +1,4 @@
----
-title: Take control
----
+# Take control
 
 What others do is outside our control, but what we do isn't. What others focus on is outside our control, but what we focus on isn't. How others feel is outside our control, but how we feel isn't.
 

@@ -1,6 +1,4 @@
----
-title: Why are you doing what you're doing?
----
+# Why are you doing what you're doing?
 
 Doing things makes us feel productive. It makes us feel like we're progressing. And it makes us feel like we're contributing to something. We get enjoyment out of doing things, which makes us want to continue.
 

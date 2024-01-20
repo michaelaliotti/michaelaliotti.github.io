@@ -1,6 +1,4 @@
----
-title: There is always a choice
----
+# There is always a choice
 
 Many of us spend so much of our lives focused on things we can't control. We wish that our circumstances were different, or that someone or something might change that would make everything better. Yet, we do nothing about it. Or, we resign ourselves to the thought that there is nothing we can do. We go on hoping things will just magically improve, and that our pains and frustrations will somehow just go away.
 

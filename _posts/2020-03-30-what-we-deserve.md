@@ -1,5 +1,3 @@
----
-title: What we deserve
----
+# What we deserve
 
 Nothing. (Everything we have is a gift.)

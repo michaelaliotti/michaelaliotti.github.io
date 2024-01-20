@@ -1,6 +1,4 @@
----
-title: Strike the balance
----
+# Strike the balance
 
 When something matters to us, it means it's important. When it's important, we tend to focus on it. And in order to focus on something, we need to ignore everything else. This requires a healthy balance.
 

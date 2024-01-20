@@ -1,6 +1,4 @@
----
-title: If I can't win, I want you to lose
----
+# If I can't win, I want you to lose
 
 I've been noticing a certain kind of mentality more and more. Maybe you've been noticing it, too. It's a kind of mentality that disparages anyone with different opinions and perspectives. It's a kind of mentality that belittles anyone with different beliefs. It's a kind of mentality that's arrogant, exclusive, and divisive.
 

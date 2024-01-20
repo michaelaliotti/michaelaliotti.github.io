@@ -1,6 +1,4 @@
----
-title: Love is not a feeling
----
+# Love is not a feeling
 
 There is the feeling of love, and then there is the decision of love. The feeling of love comes and goes --- it ebbs and flows like the waves of the ocean (just like all the other emotions).
 

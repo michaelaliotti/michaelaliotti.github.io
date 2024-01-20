@@ -1,6 +1,4 @@
----
-title: Breaking through the wall
----
+# Breaking through the wall
 
 A lot of our life endeavors start out with enthusiasm. Just like at the beginning of a marathon. We're amped up to race. There's an incredible amount of energy those first few miles. We feel great. Everything is easy. And things are going as planned --- maybe even better than planned.
 

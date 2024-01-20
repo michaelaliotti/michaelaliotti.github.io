@@ -1,5 +1,3 @@
----
-title: On the relationship between wanting and having
----
+# On the relationship between wanting and having
 
 The more we want, the less we have.

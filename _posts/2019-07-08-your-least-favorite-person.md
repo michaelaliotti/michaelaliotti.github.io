@@ -1,6 +1,4 @@
----
-title: Your least favorite person
----
+# Your least favorite person
 
 It's been said that we should surround ourselves with the kind of people we want to be.
 

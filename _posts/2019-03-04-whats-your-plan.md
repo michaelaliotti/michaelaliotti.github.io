@@ -1,6 +1,4 @@
----
-title: What's your plan?
----
+# What's your plan?
 
 Sometimes we put too much value on what others think we should do. And sometimes it feels like someone else's plan is better than our own. After all, if it works for them, it should work for us, right?
 

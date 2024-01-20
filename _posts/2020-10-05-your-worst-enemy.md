@@ -1,5 +1,3 @@
----
-title: Your worst enemy
----
+# Your worst enemy
 
 Love them.

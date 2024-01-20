@@ -1,5 +1,3 @@
----
-title: What's stopping you?
----
+# What's stopping you?
 
 You.

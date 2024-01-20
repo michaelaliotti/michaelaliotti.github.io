@@ -1,6 +1,4 @@
----
-title: Care like a kid
----
+# Care like a kid
 
 When I tell people that I learn more from my kids than I do anyone else, they usually laugh. I never know if they agree or just think I'm crazy and aren't sure how to react. But for me, it's true. My kids teach me more about myself than anyone else, and I think that's significant.
 

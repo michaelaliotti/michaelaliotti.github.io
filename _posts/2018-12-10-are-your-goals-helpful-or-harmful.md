@@ -1,6 +1,4 @@
----
-title: Are your goals helpful or harmful?
----
+# Are your goals helpful or harmful?
 
 There are two schools of thought when it comes to setting goals:
 

@@ -1,6 +1,4 @@
----
-title: Under pressure
----
+# Under pressure
 
 _By Chuck Noll_
 

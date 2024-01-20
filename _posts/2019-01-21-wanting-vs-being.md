@@ -1,6 +1,4 @@
----
-title: Wanting vs. being
----
+# Wanting vs. being
 
 There is a difference between wanting something and being something. For example, the difference between wanting to eat healthy and being a healthy eater; wanting to have confidence and being a confident person; wanting to lead and being a leader; etc.
 

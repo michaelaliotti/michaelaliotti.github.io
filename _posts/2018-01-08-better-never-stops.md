@@ -1,6 +1,4 @@
----
-title: Better never stops
----
+# Better never stops
 
 Every day is an opportunity to be better. It's an opportunity to be a better spouse, a better parent, a better sibling, a better friend, a better listener, etc.
 

@@ -1,6 +1,4 @@
----
-title: What it takes
----
+# What it takes
 
 It takes strength to show weakness, trust to be vulnerable, humility to admit a mistake. It takes courage to risk failure, confidence to not know, love to overcome hate.
 

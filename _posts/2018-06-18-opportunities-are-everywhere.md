@@ -1,6 +1,4 @@
----
-title: Opportunities are everywhere
----
+# Opportunities are everywhere
 
 Each day is filled with opportunities, but we don't always notice them. And a lot of times, when we do notice them, we don't always act on them.
 

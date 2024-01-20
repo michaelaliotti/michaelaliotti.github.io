@@ -1,6 +1,4 @@
----
-title: What's your excuse?
----
+# What's your excuse?
 
 We've all got them.
 

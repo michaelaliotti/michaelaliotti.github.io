@@ -1,6 +1,4 @@
----
-title: Most people
----
+# Most people
 
 Most people do just enough. Most people take the easy way. Most people limit themselves. Most people make excuses. Most people complain. Most people say they're too busy. Most people compare themselves to others. Most people quit when it gets hard. Most people want something. Most people do nothing about it.
 

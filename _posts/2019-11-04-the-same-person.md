@@ -1,6 +1,4 @@
----
-title: The same person
----
+# The same person
 
 Be it.
 
