@@ -1,5 +1,3 @@
----
-title: Lead with love
----
+# Lead with love
 
 It never fails.

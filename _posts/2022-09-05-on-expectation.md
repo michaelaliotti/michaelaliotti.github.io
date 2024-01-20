@@ -1,5 +1,3 @@
----
-title: On expectation
----
+# On expectation
 
 An unclear expectation is unlikely to be met.

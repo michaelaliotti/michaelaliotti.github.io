@@ -1,6 +1,4 @@
----
-title: Do less to do more
----
+# Do less to do more
 
 A lot of people talk about how they don't have enough time. They are too busy. They have too much going on. They need more time in a day, etc. These people have chosen to be busy. They are trying to do it all. They are trying to make everything a priority, which is a losing strategy.
 

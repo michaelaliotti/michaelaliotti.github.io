@@ -1,6 +1,4 @@
----
-title: We're human
----
+# We're human
 
 We judge. We lie. We cheat. We compare. We manipulate to get our own way. We struggle with forgiveness. We struggle with fear. We struggle with loss. We struggle with feeling like we're not enough.
 

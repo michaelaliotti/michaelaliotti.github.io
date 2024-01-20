@@ -1,6 +1,4 @@
----
-title: Embrace change
----
+# Embrace change
 
 Most of us don't like change. It can make us feel uncertain, out of control, and incompetent. It can disrupt routine, create more work, and cause frustration.
 

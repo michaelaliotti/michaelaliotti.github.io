@@ -1,5 +1,3 @@
----
-title: On taking things personally
----
+# On taking things personally
 
 Don't.

@@ -1,6 +1,4 @@
----
-title: Contribution
----
+# Contribution
 
 Whatever the situation; whatever the circumstance; whatever the outcome; whether right or wrong; whether success or failure; whether solution or problem --- we all play a part.
 

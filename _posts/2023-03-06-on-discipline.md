@@ -1,5 +1,3 @@
----
-title: On discipline
----
+# On discipline
 
 It makes motivation unnecessary.

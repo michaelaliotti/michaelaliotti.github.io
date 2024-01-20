@@ -1,6 +1,4 @@
----
-title: Who's in control?
----
+# Who's in control?
 
 We have an incredible amount of choice in our lives. Our decisions are our choice; our actions are our choice; our attitude is our choice; etc. And yet, sometimes it can seem as though the opposite is true.
 

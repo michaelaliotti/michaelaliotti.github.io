@@ -1,6 +1,4 @@
----
-title: The victim
----
+# The victim
 
 It's never their fault. They always have an excuse. Their life is so much harder than everyone else's. They're negative. They complain. They like dragging others down. Self-pity is their friend.
 

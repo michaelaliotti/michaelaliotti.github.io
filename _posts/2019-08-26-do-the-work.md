@@ -1,6 +1,4 @@
----
-title: Do the work
----
+# Do the work
 
 We tend to focus on the results way more than the boring, monotonous, unsexy work it takes to get them. We applaud, recognize, and reward outcomes, but rarely do we shine a light on consistency and process.
 

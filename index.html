@@ -1,8 +1,4 @@
 ---
-layout: page
 ---
 
-{% assign post = site.posts.first %}
-
-<h1>{{ post.title | smartify }}</h1>
-{{ post.content }}
+{{ site.posts.first.content }}

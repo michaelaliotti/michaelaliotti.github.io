@@ -1,6 +1,4 @@
----
-title: Everything and nothing
----
+# Everything and nothing
 
 The pull of this world is to do more, know more, and have more. It's to look better, feel better, be better --- to get ahead, to succeed, to win.
 

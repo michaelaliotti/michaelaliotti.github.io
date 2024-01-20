@@ -1,5 +1,3 @@
----
-title: When things don't go as planned
----
+# When things don't go as planned
 
 How do you want to be about it?

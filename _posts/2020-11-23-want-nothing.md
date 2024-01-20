@@ -1,5 +1,3 @@
----
-title: Want nothing
----
+# Want nothing
 
 We already have everything we need.

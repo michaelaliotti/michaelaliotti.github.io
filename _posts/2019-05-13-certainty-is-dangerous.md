@@ -1,6 +1,4 @@
----
-title: Certainty is dangerous
----
+# Certainty is dangerous
 
 When we are certain, it is difficult to see. When we are certain, it is difficult to hear. When we are certain, it is difficult to think. When we are certain, it is difficult to learn. When we are certain, it is difficult to grow.
 

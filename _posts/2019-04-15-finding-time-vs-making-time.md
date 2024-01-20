@@ -1,6 +1,4 @@
----
-title: Finding time vs. making time
----
+# Finding time vs. making time
 
 There's a difference between finding time and making time.
 

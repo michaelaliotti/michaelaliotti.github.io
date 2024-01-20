@@ -1,5 +1,3 @@
----
-title: Smaller, slower, weaker
----
+# Smaller, slower, weaker
 
 That's what being comfortable does to us.

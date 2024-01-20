@@ -1,6 +1,4 @@
----
-title: The power of positivity
----
+# The power of positivity
 
 Positivity is not acting cheerful despite difficult or challenging moments. It is not pretending to be happy even when we're not. And it is not something that should be faked or forced.
 

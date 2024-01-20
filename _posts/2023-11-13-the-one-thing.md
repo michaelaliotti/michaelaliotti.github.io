@@ -1,6 +1,4 @@
----
-title: The one thing
----
+# The one thing
 
 The choice is ours:
 

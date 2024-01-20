@@ -1,6 +1,4 @@
----
-title: Time is not guaranteed
----
+# Time is not guaranteed
 
 There are a lot of things in life that we can get back. For example, money: we spend it, but we also earn it. Gifts: we give them, but we also receive them. And how about love: we can love, but we can also be loved.
 

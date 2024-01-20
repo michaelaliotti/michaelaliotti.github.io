@@ -1,6 +1,4 @@
----
-title: What game are you playing?
----
+# What game are you playing?
 
 If our goal is simply to get ahead in life, we're playing the wrong game. This is the external game. It's the game we tend to measure ourselves by; the game we can so easily get lost in; the game no one really wins. The external game is a distraction from the more meaningful (and rewarding) development of the inner self.
 

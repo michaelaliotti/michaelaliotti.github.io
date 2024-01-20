@@ -1,6 +1,4 @@
----
-title: It takes effort
----
+# It takes effort
 
 If you don't take care of your yard, it will eventually be overrun with weeds. If you don't take care of your car, it will eventually break down. And if you don't take care of your responsibilities at work, you will eventually get fired (or go out of business).
 

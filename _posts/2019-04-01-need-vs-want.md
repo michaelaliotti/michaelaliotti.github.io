@@ -1,6 +1,4 @@
----
-title: Need vs. want
----
+# Need vs. want
 
 The formula is simple: do the things you need to do so you can do the things you want to do. The reverse is not true.
 

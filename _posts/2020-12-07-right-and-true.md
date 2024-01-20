@@ -1,6 +1,4 @@
----
-title: Right and true
----
+# Right and true
 
 We are all living based on what we believe is right and true. Yet, it is our conflicting beliefs on what is right and true that get in the way.
 

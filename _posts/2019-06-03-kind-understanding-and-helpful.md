@@ -1,6 +1,4 @@
----
-title: Kind, understanding, and helpful
----
+# Kind, understanding, and helpful
 
 Is there a time when we shouldn't be kind? (And being kind doesn't mean being a pushover or making others feel good about themselves.)
 

@@ -1,5 +1,3 @@
----
-title: On kindness
----
+# On kindness
 
 It is a strength, not a weakness.

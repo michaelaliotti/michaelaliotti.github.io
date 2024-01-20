@@ -1,6 +1,4 @@
----
-title: Know yourself
----
+# Know yourself
 
 We tend to focus on the external more than the internal. We tend to focus on what others notice about us more than what we notice about ourselves. We tend to focus on the destination more than the journey. And we tend to focus on what we do more than who we are.
 

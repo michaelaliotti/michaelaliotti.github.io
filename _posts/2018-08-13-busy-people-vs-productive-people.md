@@ -1,6 +1,4 @@
----
-title: Busy people vs. productive people
----
+# Busy people vs. productive people
 
 There's a difference between busy people and productive people.
 
