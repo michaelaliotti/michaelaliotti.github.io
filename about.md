@@ -1,3 +1,7 @@
 # About
 
-This is where I'm supposed to tell you all about myself. However, that will have to be for another time. Check back soon.
+Hi, I'm Michael.
+
+Husband, father, athlete, and musician. Working in software since 2007. Fan of reading, writing, burpees, and metal. College football junkie. Servant leader. Christ follower.
+
+Email me at [michael@michaelaliotti.com](mailto:michael@michaelaliotti.com).
