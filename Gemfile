@@ -10,3 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-titles-from-headings'
 end
+
+gem "csv", "~> 3.3"
